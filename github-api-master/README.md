@@ -21,6 +21,3 @@ This instruction will install all the necessary dependencies for the correct ope
 
 The application will open automatically and ready to try it!
 
-### Youtube link for the documentation of the operation
-
-https://www.youtube.com/watch?v=GPUWewcm-oA&feature=youtu.be
